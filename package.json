@@ -1,0 +1,14 @@
+{
+  "name": "backend-start",
+  "version": "1.0.0",
+  "description": "A basic app backend JS start",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arshad khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
